@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 max_age: 86401
 mx: adisa-global.mail.protection.outlook.com
